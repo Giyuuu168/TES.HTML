@@ -1,0 +1,37 @@
+/* unerversal*/
+* {
+    background-color:white;
+    font-weight: 400;
+   
+}
+/* class */
+.p{
+
+    color: rgb(61, 65, 65);
+    font-size: large;
+}
+.font{
+    font-size: 24;
+}
+/* tag name*/
+a, h6{
+    color: rgb(18, 23, 27);
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}  
+/* Attribute*/
+input[type="text"] {
+    border-radius: 6px;
+    background-color: white;
+}
+/* ID */
+#my-id{
+    max-width: 600px;
+    width: 200px;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+.color_test{
+    color: rgb(199, 20, 130);
+}
