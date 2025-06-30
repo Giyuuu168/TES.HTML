@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    color:white;
+    background: url(./image\ copy.png) no-repeat;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 100px;
+   }
+   .input-box{
+    font-size: medium;
+    color: aqua;
+    margin: 20px; 
+    
+   }
+   input{
+    border-radius: 20px;
+
+   }
+   .margin{
+    color: aqua;
+    margin: 20px;   
+   }
+   .btn{
+    border-radius: 15px;
+    width: 110px;
+   }
+   
+   
